@@ -34,7 +34,7 @@ VS Code | IntelliJ IDEA | Postman | GitHub Copilot | Markdown
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [Bot Whatsapp](https://github.com/ChristianAbril91/BotWhatsapp-Spring) | API REST desarrollada en Java con Spring Boot, diseñada para permitir el envío de mensajes a través de un bot de WhatsApp de manera sencilla y escalable | Spring Boot | Spring Web (REST) | Maven | Lombok | Docker (opcional) | Postman (para pruebas)
+| [Bot Whatsapp](https://github.com/ChristianAbril91/BotWhatsapp-Spring) | API REST desarrollada en Java con Spring Boot, diseñada para permitir el envío de mensajes a través de un bot de WhatsApp de manera sencilla y escalable | Spring Boot, Spring Web (REST), Maven, Lombok, Postman (para pruebas)
 
 ---
 
