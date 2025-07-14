@@ -34,9 +34,7 @@ VS Code | IntelliJ IDEA | Postman | GitHub Copilot | Markdown
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [Historial IP–MAC]() | Backend para visualizar historial de conexiones por red | FastAPI, PostgreSQL, Pandas |
-| [Microservicio Spring Boot]() | CRUD API + Swagger | Java 17, Spring Boot, PostgreSQL |
-| [Demo observabilidad]() | Servicio con métricas expuestas | Go, Prometheus, Grafana |
+| [Bot Whatsapp](https://github.com/ChristianAbril91/BotWhatsapp-Spring) | API REST desarrollada en Java con Spring Boot, diseñada para permitir el envío de mensajes a través de un bot de WhatsApp de manera sencilla y escalable
 
 ---
 
